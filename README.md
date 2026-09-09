@@ -1,12 +1,31 @@
-# 🐾 Pawdcast — The All-in-One Pet Care Platform
+<div align="center">
 
-Pawdcast is a full-stack web application that brings together the scattered tools pet owners rely on — health records, expense tracking, adoption, clinic discovery, and care guidance — into a single platform.
+# 🐾 Pawdcast
+### The All-in-One Pet Care Platform
 
-Built with **Java, Spring Boot, MySQL, HTML, CSS, and JavaScript**.
+Pawdcast brings together the scattered tools pet owners rely on — health records, expense tracking, adoption, clinic discovery, and care guidance — into a single, unified platform.
+
+[![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![License](https://img.shields.io/badge/License-Educational-lightgrey)](#disclaimer)
+[![Maintained](https://img.shields.io/badge/Maintained-yes-success)](#roadmap)
+
+<p>
+  <a href="#key-features">Features</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#running-with-docker">Docker</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#roadmap">Roadmap</a>
+</p>
+
+</div>
 
 ---
 
-## Overview
+## 📖 Overview
 
 Pet owners typically juggle multiple disconnected services: one app for vaccination records, another for finding a vet, a spreadsheet for expenses, and a separate site for adoption listings. Pawdcast consolidates these into one ecosystem, built for:
 
@@ -18,7 +37,7 @@ Pet owners typically juggle multiple disconnected services: one app for vaccinat
 
 ---
 
-## Key Features
+## ✨ Key Features
 
 **User & Pet Management**
 - Account registration and login
@@ -56,7 +75,7 @@ Pet owners typically juggle multiple disconnected services: one app for vaccinat
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -71,7 +90,7 @@ Pet owners typically juggle multiple disconnected services: one app for vaccinat
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 
 ```
 Client (HTML/CSS/JS)
@@ -99,7 +118,7 @@ The backend follows a standard layered architecture:
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 Pawdcast-Pet-Care/
@@ -134,7 +153,7 @@ Pawdcast-Pet-Care/
 
 ---
 
-## Getting Started
+## ⚙️ Getting Started
 
 ### Prerequisites
 
@@ -198,7 +217,7 @@ Visit **http://localhost:8080** (or `http://localhost:8081` if you set a custom 
 
 ---
 
-## Running with Docker
+## 🐳 Running with Docker
 
 ```bash
 ./mvnw clean package -DskipTests
@@ -212,7 +231,7 @@ docker run -p 8080:8080 \
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 | Landing Page | User & Pet Profiles |
 |---|---|
@@ -228,7 +247,7 @@ docker run -p 8080:8080 \
 
 ---
 
-## Roadmap
+## 🗺️ Roadmap
 
 - [ ] Responsive design across mobile devices
 - [ ] Automated unit and integration tests
@@ -243,7 +262,7 @@ docker run -p 8080:8080 \
 
 ---
 
-## What This Project Demonstrates
+## 🎯 What This Project Demonstrates
 
 - Full-stack Java web development with Spring Boot
 - RESTful backend design and layered architecture
@@ -255,13 +274,13 @@ docker run -p 8080:8080 \
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 Pawdcast is an educational project. Health, insurance, and legal information provided within the app is for informational purposes only and should not replace professional veterinary, financial, or legal advice.
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Atharva Padwal**
 IT Engineering Student & Full-Stack Developer
@@ -271,4 +290,8 @@ IT Engineering Student & Full-Stack Developer
 
 ---
 
-⭐ If you find this project useful, consider starring the repo.
+<div align="center">
+
+⭐ **If you find this project useful, consider starring the repo!** ⭐
+
+</div>
