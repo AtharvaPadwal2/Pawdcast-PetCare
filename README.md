@@ -17,7 +17,6 @@ Pawdcast brings together the scattered tools pet owners rely on — health recor
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#getting-started">Getting Started</a> •
   <a href="#running-with-docker">Docker</a> •
-  <a href="#screenshots">Screenshots</a> •
   <a href="#roadmap">Roadmap</a>
 </p>
 
@@ -228,22 +227,6 @@ docker run -p 8080:8080 \
   -e DATABASE_PASSWORD=<your-password> \
   pawdcast-pet-care
 ```
-
----
-
-## 📸 Screenshots
-
-| Landing Page | User & Pet Profiles |
-|---|---|
-| *(add screenshot)* | *(add screenshot)* |
-
-| Health & Expense Tracking | Adoption Hub |
-|---|---|
-| *(add screenshot)* | *(add screenshot)* |
-
-| Vet & Venue Finder | Pet E-Commerce |
-|---|---|
-| *(add screenshot)* | *(add screenshot)* |
 
 ---
 
